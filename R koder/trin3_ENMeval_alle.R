@@ -29,7 +29,6 @@
 #   - SWD-format: Elith et al. (2010)
 #   - AICc modeludvælgelse: Muscarella et al. (2014)
 #   - Block partitioning: Elith et al. (2010), Treves et al. (2022)
-#   - Pre-model 100m buffer (baggrundspunkter): Swinnen et al. (2017)
 #   - Feature classes og rm 0.5–5: Swinnen et al. (2017)
 #   - Jackknife variabelbidrag: Phillips (2006), Elith et al. (2011)
 #   - L1-regularisering som implicit variabel-udvælgelse:
