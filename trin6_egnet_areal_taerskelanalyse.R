@@ -35,8 +35,8 @@ library(terra)
 library(sf)
 
 # === stier ===
-lag_sti    <- "C:/qGIS/bachelor/layers_endelig/"
-github_sti <- "C:/Users/Soley/Documents/GitHub/baever-habitatmodel/"
+lag_sti    <- #INDSÆT STI MED " " PÅ HVER SIDE (mappen hvor alle miljøvariabler samles)
+github_sti <- #INDSÆT STI MED " " PÅ HVER SIDE
   
   # ============================================================
 # TRIN 6.1: INDLÆS HABITATKORT (WGS84) OG FORBERED AREALBEREGNING
